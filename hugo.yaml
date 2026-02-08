@@ -16,8 +16,11 @@ params:
 
   sidebar:
     emoji: 🚀
-    subtitle: "Accelerating Software Development"
+    subtitle: "High quality custom software applications"
     avatar: "img/logo.png"
+
+  article:
+    readingTime: false
 
 menu:
   main:
