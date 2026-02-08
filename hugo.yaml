@@ -1,4 +1,4 @@
-baseURL: "https://devacceleration.studio/"
+baseURL: "/"
 languageCode: en-us
 title: DevAcceleration Studio
 theme: hugo-theme-stack
